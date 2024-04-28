@@ -129,7 +129,7 @@ p{
 body{
 		background-color: lightyellow;
 	}
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 800px) {
 	p{
 		font-size: 20px;
 	}
