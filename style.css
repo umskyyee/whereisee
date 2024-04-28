@@ -129,7 +129,7 @@ p{
 body{
 		background-color: lightyellow;
 	}
-	
+
 @media screen and (max-width: 900px) {
 	p{
 		font-size: 20px;
@@ -162,7 +162,7 @@ body{
 	.c1{
 		position: absolute;
 		background-color: lightpink;
-		top: 300px;
+		top: 200px;
 		left:100px;
 		width: 250px;
 		height: 250px;
@@ -172,8 +172,8 @@ body{
 	.c2{
 		position: absolute;
 		background-color: lightgreen;
-		top: 500px;
-		left: 350px;
+		top: 450px;
+		left: 100px;
 		width: 250px;
 		height: 250px;
 		border-radius: 150px;
@@ -182,7 +182,7 @@ body{
 	.p1{
 		position: absolute;
 		background-color: lightpink;
-		top: 270px;
+		top: 170px;
 		left: 80px;
 		width: 80px;
 		height: 80px;
@@ -192,7 +192,7 @@ body{
 	.p2{
 		position: absolute;
 		background-color: lightpink;
-		top: 270px;
+		top: 170px;
 		left: 300px;
 		width: 80px;
 		height: 80px;
@@ -202,8 +202,8 @@ body{
 	.p3{
 		position: absolute;
 		background-color: lightgreen;
-		top: 470px;
-		left: 330px;
+		top: 420px;
+		left: 80px;
 		width: 80px;
 		height: 80px;
 		border-radius: 40px;
@@ -212,8 +212,8 @@ body{
 	.p4{
 		position: absolute;
 		background-color: lightgreen;
-		top: 470px;
-		left: 540px;
+		top: 420px;
+		left: 300px;
 		width: 80px;
 		height: 80px;
 		border-radius: 40px;
