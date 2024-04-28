@@ -178,4 +178,44 @@ body{
 		border-radius: 150px;
 		background: linear-gradient(45deg,lightyellow,lightgreen);
 	}
+	.p1{
+		position: absolute;
+		background-color: lightpink;
+		top: 270px;
+		left: 80px;
+		width: 80px;
+		height: 80px;
+		border-radius: 40px;
+		background: linear-gradient(45deg,lightyellow,lightpink);
+	}
+	.p2{
+		position: absolute;
+		background-color: lightpink;
+		top: 270px;
+		left: 300px;
+		width: 80px;
+		height: 80px;
+		border-radius: 40px;
+		background: linear-gradient(45deg,lightyellow,lightpink);
+	}
+	.p3{
+		position: absolute;
+		background-color: lightgreen;
+		top: 470px;
+		left: 330px;
+		width: 80px;
+		height: 80px;
+		border-radius: 40px;
+		background: linear-gradient(45deg,lightyellow,lightgreen);
+	}
+	.p4{
+		position: absolute;
+		background-color: lightgreen;
+		top: 470px;
+		left: 540px;
+		width: 80px;
+		height: 80px;
+		border-radius: 40px;
+		background: linear-gradient(45deg,lightyellow,lightgreen);
+	}
 	}
